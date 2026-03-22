@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "html-storage-mcp",
+  "name": "share-content",
   "main": "src/index.ts",
   "compatibility_date": "2026-03-19",
   "compatibility_flags": ["nodejs_compat"],
